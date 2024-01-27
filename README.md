@@ -1,5 +1,7 @@
 # tstl-export-rename
 
+[![CI](https://github.com/thinknathan/tstl-export-rename/actions/workflows/ci.yml/badge.svg)](https://github.com/thinknathan/tstl-export-rename/actions/workflows/ci.yml)
+
 TypeScriptToLua plugin that renames the `___exports` variable.
 
 ## Example
