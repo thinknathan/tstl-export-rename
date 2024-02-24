@@ -2,7 +2,9 @@
 
 [![CI](https://github.com/thinknathan/tstl-export-rename/actions/workflows/ci.yml/badge.svg)](https://github.com/thinknathan/tstl-export-rename/actions/workflows/ci.yml)
 
-TypeScriptToLua plugin that renames the `___exports` variable.
+TypeScriptToLua plugin that renames the `___exports` variable for cosmetic reasons.
+
+:exclamation: Use this and any code transformation plugin with caution. Mistakes are possible.
 
 ## Example
 
