@@ -35,9 +35,9 @@ Requires TSTL >= 1.22.0.
 1. Install this plugin
 
 ```bash
-yarn add git+https://git@github.com/thinknathan/tstl-export-rename.git#^1.0.0 -D
+yarn add tstl-export-rename -D
 # or
-npm install git+https://git@github.com/thinknathan/tstl-export-rename.git#^1.0.0 --save-dev
+npm install tstl-export-rename --save-dev
 ```
 
 2. Add `tstl-export-rename` to `tstl.luaPlugins` in `tsconfig.json`
