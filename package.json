@@ -1,6 +1,6 @@
 {
 	"name": "tstl-export-rename",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "TypeScriptToLua plugin that renames the `___exports` variable",
 	"repository": {
 		"type": "git",
