@@ -19,12 +19,10 @@ const plugin = (options: PluginOptions): tstl.Plugin => {
 			result: tstl.EmitFile[],
 		) => {
 			if (!options.match) {
-				// @ts-expect-error Missing console definition
 				console.warn('`tstl-export-rename` is missing `match` in `tsconfig`');
 				return;
 			}
 			if (!options.exportRename) {
-				// @ts-expect-error Missing console definition
 				console.warn(
 					'`tstl-export-rename` is missing `exportRename` in `tsconfig`',
 				);
